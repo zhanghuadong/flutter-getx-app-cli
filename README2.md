@@ -9,3 +9,8 @@ function add(a,b){
 function sub(a,b){
  return a-b;
 }
+
+=============================
+那就坚持一年先了，搞点起步资金
+git 的连接方式分为四种:ssh连接、HTTPS 连接、SVN 连接和SVN + ssh 连接。
+1.1 HTTPS 1.1.1 身份验证 在首次连接gitee仓库时,会弹出如下窗口: 用户名、密码就是gitee账号的用户名、
