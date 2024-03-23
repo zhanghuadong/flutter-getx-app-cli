@@ -5,6 +5,28 @@
 那就坚持一年先了，搞点起步资金
 git 的连接方式分为四种:ssh连接、HTTPS 连接、SVN 连接和SVN + ssh 连接
 =============================
+
+void bubble_sort(int arr[],int sz)
+{
+int i = 0;
+//确定冒泡排序的趟数
+for (i = 0; i < sz - 1; i++)
+{
+int j = 0;
+flag = 1;
+//对两个数比大小
+for (j = 0; j < sz - 1 - i; j++)
+{
+//调换前后数据
+if (arr[j] >arr[j + 1])
+{
+int tap = arr[j];
+arr[j] = arr[j+1];
+arr[j+1] = tap;
+}
+}
+}
+==============================
 那就坚持一年先了，搞点起步资金
 git 的连接方式分为四种:ssh连接、HTTPS 连接、SVN 连接和SVN + ssh 连接。
 =============================
