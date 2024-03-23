@@ -2,6 +2,10 @@
 那就坚持一年先了，搞点起步资金
 git 的连接方式分为四种:ssh连接、HTTPS 连接、SVN 连接和SVN + ssh 连接。
 =============================
+void BubbleSort2(vector<int> &vi)
+{
+
+}
 那就坚持一年先了，搞点起步资金
 void BubbleSort2(vector<int> &vi)
 {       
